@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+h1
+{
+    color: rgba(31, 24, 30, 0.82)
+}
+body {
+    background-color: aliceblue;
+}
